@@ -81,7 +81,16 @@ bid (хранится в Session storage)
 ### Использованный payload:
 <img srс=x onerror=alert(1)>
 
+### Результат:          
+В браузере выполнился JavaScript, появилось окно alert, что подтверждает уязвимость.
 
+### Почему уязвимость существует:         
+Поле ввода не фильтрует HTML-теги и JavaScript, введённый пользователем, и выводит его как HTML.
 
+### Как исправить:
+- экранировать пользовательский ввод (HTML escaping)
+- использовать строгий Content Security Policy (CSP)
+- валидировать данные на сервере и клиенте
 
+### Скриншот:
 <img width="960" height="292" alt="image" src="https://github.com/user-attachments/assets/f9d7d0dd-5f97-4347-aa0c-bbab36c6eebc" />
