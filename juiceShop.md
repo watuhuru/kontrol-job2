@@ -18,7 +18,7 @@ SQL-инъекция изменила запрос, условие стало TR
 *Структура:* header.payload.signature (3 части)            
 *Кодировка:* Base64URL          
 *Назначение:* передаёт данные о пользователе + подтверждает сессию          
-*Где хранится:* в разделе Cookies и в Local storage            
+*Где хранится:* в разделе Cookies и Local storage            
 *Имя:* token          
 *Cookie:*          token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjUtMTEtMTYgMjA6MDI6MDYuMDQ0ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjUtMTEtMTYgMjA6MDI6MDYuMDQ0ICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTc2MzMyMzg3M30.sNQjqDgT_XKWfRYIEOTMyTdP33DjNz1A_M0LvGMs_R3YN_oT35acYq_dX4bSogqh9IJnCH3MbDflNvkOpSTDRe20maf1iSng36cnh2vBDIBqNK0xm5aD8hID7OXUXSD-EGlV_9e_oynQRC8DF16rupb9Lam2gVmcnX6IKistjsM
 
