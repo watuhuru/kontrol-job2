@@ -59,3 +59,5 @@ admin@juice-sh.op
 
 
 <img width="586" height="672" alt="image" src="https://github.com/user-attachments/assets/0b61e0d3-49ed-43ce-b03d-e25130a811a1" />
+
+<img width="570" height="394" alt="image" src="https://github.com/user-attachments/assets/00c2499d-f1ed-4f2f-9b70-321098864ff8" />
