@@ -79,7 +79,7 @@ bid (хранится в Session storage)
 
 ## Задание 4
 ### Использованный payload:
-<img src=x onerror=alert(1)>
+<img srс=x onerror=alert(1)>
 
 
 
