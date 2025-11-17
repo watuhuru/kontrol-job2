@@ -53,3 +53,9 @@ admin@juice-sh.op
 <img width="689" height="688" alt="{918BDACE-FD6D-46CB-A96A-D432450F55D5}" src="https://github.com/user-attachments/assets/9fab4fd0-5e88-4ba6-9a04-7017895fcd77" />
 <img width="854" height="328" alt="image" src="https://github.com/user-attachments/assets/175a5d56-aa1f-4cd2-b741-1547e8bb1479" />
 
+## Задание 3
+
+
+
+
+<img width="586" height="672" alt="image" src="https://github.com/user-attachments/assets/0b61e0d3-49ed-43ce-b03d-e25130a811a1" />
