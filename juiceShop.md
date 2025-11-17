@@ -54,12 +54,25 @@ admin@juice-sh.op
 <img width="854" height="328" alt="image" src="https://github.com/user-attachments/assets/175a5d56-aa1f-4cd2-b741-1547e8bb1479" />
 
 ## Задание 3
+### Найденный параметр:         
+bid (хранится в Session storage)
 
+### Суть уязвимости:              
+При изменении bid вручную, приложение показывает чужую корзину без проверки прав.
 
+### Этапы выполнения:
+1. Добавил товар в корзину
+2. Нашёл значение bid в Session storage
+3. Изменил bid на другое значение
+4. Обновил страницу
+5. Получил доступ к чужой корзине
 
+### Как исправить:
+- проверять владельца корзины на сервере
+- не использовать изменяемые id в клиенте
+- заменить ID на UUID + провести серверную проверку
 
+### Скриншоты:
 <img width="586" height="672" alt="image" src="https://github.com/user-attachments/assets/0b61e0d3-49ed-43ce-b03d-e25130a811a1" />
-
 <img width="856" height="954" alt="image" src="https://github.com/user-attachments/assets/a5f9c625-fac1-4418-81a6-c9f82203336c" />
-
 <img width="570" height="394" alt="image" src="https://github.com/user-attachments/assets/00c2499d-f1ed-4f2f-9b70-321098864ff8" />
