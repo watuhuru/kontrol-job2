@@ -42,6 +42,12 @@ admin@juice-sh.op
 ### Что такое cookie?             
 *Cookie* — это данные, которые браузер хранит для поддержания сессии пользователя. В данном случае cookie содержит токен авторизации.
 
+### Как устранить уязвимость:
+- не хранить пароли в токене
+- не использовать предсказуемые токены (base64)
+- использовать серверные сессии или JWT с подписью
+- не хранить хэши пароля в cookies
+
 ### Скриншоты:
 <img width="1144" height="951" alt="image" src="https://github.com/user-attachments/assets/199c9601-6288-44ce-9a82-9a19c6533d20" />
 <img width="689" height="688" alt="{918BDACE-FD6D-46CB-A96A-D432450F55D5}" src="https://github.com/user-attachments/assets/9fab4fd0-5e88-4ba6-9a04-7017895fcd77" />
