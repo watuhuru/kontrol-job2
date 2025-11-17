@@ -76,3 +76,12 @@ bid (хранится в Session storage)
 <img width="586" height="672" alt="image" src="https://github.com/user-attachments/assets/0b61e0d3-49ed-43ce-b03d-e25130a811a1" />
 <img width="856" height="954" alt="image" src="https://github.com/user-attachments/assets/a5f9c625-fac1-4418-81a6-c9f82203336c" />
 <img width="570" height="394" alt="image" src="https://github.com/user-attachments/assets/00c2499d-f1ed-4f2f-9b70-321098864ff8" />
+
+## Задание 4
+### Использованный payload:
+<img src=x onerror=alert(1)>
+
+
+
+
+<img width="960" height="292" alt="image" src="https://github.com/user-attachments/assets/f9d7d0dd-5f97-4347-aa0c-bbab36c6eebc" />
